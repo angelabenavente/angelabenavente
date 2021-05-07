@@ -1,3 +1,5 @@
+<p align=right>EN/<a href="https://github.com/angelabenavente/angelabenavente_es#readme" tabindex=”0” role=”link” style=”cursor:pointer;”>ES</a><p>
+   
 # Hi, I'm Ángela 👋
 
 <p>I'm a passionate front-end developer and lingüist from Spain. Besides <a href="https://angelabenavente.github.io/" tabindex=”0” role=”link” style=”cursor:pointer;text-decoration:underline;color:blue;”>writing code</a>, thinking in interfaces and investigating about new tendencies in dev world, I’m learning about web accessibility. I like to practice French and Mandarin Chinese. I also love hiking and music.</p>
