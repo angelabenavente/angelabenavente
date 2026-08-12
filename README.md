@@ -1,3 +1,6 @@
+<img src="[https://ibb.co/zhR3b62V](https://ibb.co/zhR3b62V)" width="45%" align="left"/>
+
+<img width="760" height="626" alt="angelabenavente-ascii" src="https://github.com/user-attachments/assets/dee122b5-ca4e-477c-8a30-8f103ac59fc8" />
 <p align=right>EN / <a href="https://github.com/angelabenavente/angelabenavente_es#readme" tabindex=”0” role=”link” style=”cursor:pointer;”>ES</a> / <a href="https://github.com/angelabenavente/angelabenavente_fr#readme" tabindex=”0” role=”link” style=”cursor:pointer;”>FR</a><p>
    
 # Hi, I'm Ángela 👋
