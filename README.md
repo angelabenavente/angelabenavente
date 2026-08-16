@@ -4,24 +4,6 @@
   <a href="https://github.com/angelabenavente/angelabenavente_fr#readme">FR</a>
 </p>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./welcome-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./welcome-light.svg"
-    >
-    <img
-      src="./welcome-light.svg"
-      alt="Ángela welcome banner"
-      width="100%"
-    >
-  </picture>
-</p>
-
 <h1 align="left">
   <img
     src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif"
