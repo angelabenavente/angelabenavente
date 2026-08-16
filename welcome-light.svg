@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" font-family="'JetBrains Mono','DejaVu Sans Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="15">
+  <rect width="720" height="260" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+
+  <text x="40" y="55" xml:space="preserve">
+    <tspan fill="#8c959f">┌[ </tspan>
+    <tspan fill="#0969da" font-weight="700">angelabenavente</tspan>
+    <tspan fill="#1f2328">@</tspan>
+    <tspan fill="#218bff" font-weight="700">github</tspan>
+    <tspan fill="#8c959f"> ]─[ </tspan>
+    <tspan fill="#1f6feb">~/dev</tspan>
+    <tspan fill="#8c959f"> ]</tspan>
+  </text>
+
+  <text x="40" y="77" xml:space="preserve">
+    <tspan fill="#1f6feb">└&gt; </tspan>
+    <tspan fill="#0969da" font-weight="700">./profile.sh</tspan>
+  </text>
+
+  <line x1="40" y1="95" x2="680" y2="95" stroke="#d0d7de" stroke-width="1"/>
+
+  <text x="40" y="130" xml:space="preserve" font-size="15">
+    <tspan fill="#0969da">██     ██ ███████ ██       ██████  ██████  ███    ███ ███████</tspan>
+  </text>
+  <text x="40" y="149" xml:space="preserve" font-size="15">
+    <tspan fill="#0969da">██     ██ ██      ██      ██      ██    ██ ████  ████ ██</tspan>
+  </text>
+  <text x="40" y="168" xml:space="preserve" font-size="15">
+    <tspan fill="#0969da">██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████</tspan>
+  </text>
+  <text x="40" y="187" xml:space="preserve" font-size="15">
+    <tspan fill="#0969da">██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██</tspan>
+  </text>
+  <text x="40" y="206" xml:space="preserve" font-size="15">
+    <tspan fill="#0969da"> ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████</tspan>
+  </text>
+</svg>
