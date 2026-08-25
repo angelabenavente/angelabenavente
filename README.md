@@ -19,7 +19,7 @@
 
 <p>
   I'm into accessibility and security, and I write about things I learn along the way on
-    <a href="https://angelabenavente.github.io/">my blog</a>.
+    <a href="https://www.elabezan.com/">my blog</a>.
 </p>
 
 <p>
