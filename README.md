@@ -14,7 +14,7 @@
 </h1>
 
 <p>
-  I'm a senior engineer from Spain, focused on front-end & product. I like combining creativity with data to build useful web & mobile tools.
+  I'm a senior engineer, focused on front-end & product. I like combining creativity with data to build useful web & mobile tools.
 </p>
 
 <p>
@@ -156,8 +156,12 @@
 
 <p align="center">
   <img
-    src="./assets/angelabenavente-terminal-animation-bash.gif"
-    alt="Ángela terminal animation"
+    src="./github-profile.svg"
+    alt="github-profile.sh"
     width="100%"
   >
+</p>
+
+<p align="center">
+  Made with <a href="https://github.com/angelabenavente/github-profile-sh">github-profile.sh</a> &lt;3
 </p>
