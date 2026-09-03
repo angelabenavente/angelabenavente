@@ -28,6 +28,20 @@
 
 ---
 
+<p align="center">
+  <img
+    src="./github-profile.svg"
+    alt="github-profile.sh"
+    width="100%"
+  >
+</p>
+
+<p align="center">
+  Made with <a href="https://github.com/angelabenavente/github-profile-sh">github-profile.sh</a> &lt;3
+</p>
+
+---
+
 ## 🛠️ Stack & Tools
 
 <table>
@@ -151,17 +165,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img
-    src="./github-profile.svg"
-    alt="github-profile.sh"
-    width="100%"
-  >
-</p>
-
-<p align="center">
-  Made with <a href="https://github.com/angelabenavente/github-profile-sh">github-profile.sh</a> &lt;3
-</p>
